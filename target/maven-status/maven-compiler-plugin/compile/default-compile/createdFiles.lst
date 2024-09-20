@@ -1,0 +1,5 @@
+com\projeto\ProjetoFunc\ProjetoFuncApplication.class
+com\projeto\ProjetoFunc\controller\FuncionarioController.class
+com\projeto\ProjetoFunc\WebConfig.class
+com\projeto\ProjetoFunc\model\Funcionario.class
+com\projeto\ProjetoFunc\repository\FuncionarioRepository.class
